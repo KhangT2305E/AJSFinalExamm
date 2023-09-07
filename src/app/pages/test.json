@@ -1,0 +1,42 @@
+﻿[
+    {
+        "avatar": "https://static.vecteezy.com/system/resources/thumbnails/001/921/774/small_2x/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.jpg",
+        "name": "Alexander Mcqueen",
+        "title": "CEO",
+        "hireDate": "01/01/9999",
+        "address": "No.1 Zurkerberg",
+        "city": "London",
+        "phone ": "(+1)123456789 ",
+        "": ""
+    },
+    {
+        "avatar": "https://static.vecteezy.com/system/resources/thumbnails/002/002/297/small_2x/beautiful-woman-avatar-character-icon-free-vector.jpg",
+        "name": "Balenciaga",
+        "title": "CMO",
+        "hireDate": "02/01/9999",
+        "address": "No.2 Zurkerberg",
+        "city": "Tokyo",
+        "phone ": "(+1)123456790 ",
+        "": ""
+    },
+    {
+        "avatar": "https://static.vecteezy.com/system/resources/thumbnails/002/002/300/small_2x/beautiful-woman-avatar-character-icon-free-vector.jpg",
+        "name": "Nike",
+        "title": "Sales",
+        "hireDate": "03/01/9999",
+        "address": "No.3 Zurkerberg",
+        "city": "Berlin",
+        "phone ": "(+1)123456791 ",
+        "": ""
+    },
+    {
+        "avatar": "https://static.vecteezy.com/system/resources/thumbnails/001/993/889/small_2x/beautiful-latin-woman-avatar-character-icon-free-vector.jpg",
+        "name": "Adidas",
+        "title": "Marketing",
+        "hireDate": "04/01/9999",
+        "address": "No.4 Zurkerberg",
+        "city": "Vietnam",
+        "phone ": "(+1)123456792",
+        "": ""
+    },
+]

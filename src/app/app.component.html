@@ -1,0 +1,28 @@
+<section>
+  <nav class="navbar navbar-expand-lg">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#"><strong>BaiTest</strong></a>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="nav nav-pills justify-content-center">
+          <li class="nav-item">
+            <a class="nav-link"  routerLink="todo">To do</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="inprogress">In Progress</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="inreview">In Review</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="done">Done</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</section>
+<section class="main">
+  <div class="containter">
+      <router-outlet></router-outlet>
+  </div>
+</section>
